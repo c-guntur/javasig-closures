@@ -1,0 +1,6 @@
+{
+  "name": "javasig-closures",
+  "tagline": "NY JavaSIG 20150722 HelloJava Closures Workshop",
+  "body": "# javasig-closures\r\n\r\n## What is this source code for?\r\nThis source code is the initial content shared in the NYJavaSIG HelloJava workshop on Java 8 closures, lambdas and other related features introduced in Java 8.\r\n\r\n## How will the code be used? \r\nAttendees attempt to fix the issues in each example to satisfy the ask in comments.\r\n\r\nThe intention is to learn about basic lambda syntax and other related Java 8 features through a set of examples.\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
